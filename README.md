@@ -1,2 +1,3 @@
 # hello-world
-firt project to the world
+first project to the world
+Welcome to the world of machines. We will live in peace.
